@@ -14,7 +14,7 @@ Right Click to copy the CDN link: *[Navigation Mesh](https://cdn.jsdelivr.net/gh
   
 **Submarine GLTF Mesh**  
 Blender file: *[Submarine Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/submarine.blend)*  
-Right Click to copy the CDN link: *[Submarine Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/submarine.blend)*  
+Right Click to copy the CDN link: *[Submarine Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-Frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/submarine.glb))*  
     
 **Simple Coin GLTF Mesh**  
 Right Click to copy the CDN link: *[Simple Coin Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Simple_Coin.blend)*  

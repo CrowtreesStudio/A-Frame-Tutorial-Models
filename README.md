@@ -7,14 +7,14 @@
 Links to all the models needed in the Submarine Walkabout Tutorial Series. Simply copy the links and add them to your asset management code **OR** click the links to download the models to your local harddrive.  
   
 **[Level GLTF Mesh](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Level.glb)**  
-Right Click to save the CDN link: *[Level Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Level.glb)*  
+Right Click to copy the CDN link: *[Level Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Level.glb)*  
   
 **[Navigation GLTF Mesh](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Navmesh.glb)**  
-Right Click to save the CDN link: *[Navigation Mesh](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-Frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Level.glb)* 
+Right Click to copy the CDN link: *[Navigation Mesh](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-Frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Level.glb)* 
   
 **[Submarine GLTF Mesh](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/submarine.glb)**  
-Right Click to save the CDN link: *[Submarine Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/submarine.blend)*  
+Right Click to copy the CDN link: *[Submarine Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/submarine.blend)*  
     
 **[Simple Coin GLTF Mesh](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Simple_Coin.glb)**  
-Right Click to save the CDN link: *[Simple Coin Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Simple_Coin.blend)*  
+Right Click to copy the CDN link: *[Simple Coin Blender File](https://cdn.jsdelivr.net/gh/CrowtreesStudio/A-frame-Tutorial-Models@main/Submariner%20Walkabout%20GLTF%20Models/Simple_Coin.blend)*  
   
